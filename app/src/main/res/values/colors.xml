@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Text">#f31f0c</color>
+    <color name="Bg1">#a2f705</color>
+    <color name="btcolor">#0b2def</color>
+    <color name="btfont">#ef310b</color>
+    <color name="btfont1">#0b29ef</color>
+</resources>
